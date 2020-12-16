@@ -663,6 +663,7 @@ body{
 
   .welcome-heading{
     top: 20vmin;
+    left: 5vmin;
   }
   .welcome-heading h1{
     font-size: 2.5rem;
