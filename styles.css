@@ -472,14 +472,6 @@ body{
 
 @media  only screen and (max-width:768px){
 
-  .crop-img{
-    max-width: 200%;
-    overflow: hidden;
-  }
-
-  .welcome-img{
-    width: 149.5%;
-  }
 
   .intro-para p{
     width: 75%;
@@ -651,7 +643,6 @@ body{
 @media only screen  and (max-width:425px ){
 
   .crop-img{
-    max-width: 200%;
     overflow: hidden;
   }
 
@@ -663,9 +654,6 @@ body{
     font-size: 1.7rem;
   }
 
-  .welcome-img{
-    width: 174.5%;
-  }
 
   .welcome-heading{
     top: 20vmin;
@@ -742,14 +730,6 @@ body{
 
 @media only screen  and (max-width:375px ){
 
-  .crop-img{
-    max-width: 200%;
-    overflow: hidden;
-  }
-
-  .welcome-img{
-    width: 220%;
-  }
 
   .contact-box{
     width: 52%;
