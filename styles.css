@@ -62,7 +62,6 @@ body{
   background-color: Orange;
   animation-name: jhala1;
   animation-duration: 7s;
-  animtion-iteration-count: 1;
 }
 
 @keyframes jhala1{
@@ -127,6 +126,7 @@ body{
 }
 
 .our-products img{
+  width: 30vw;
   height:100vh;
 }
 
@@ -487,7 +487,13 @@ body{
     line-height: 1.5;
     text-align: center;
   }
-
+  .our-products{
+    margin-left: 5vmin;
+  }
+  .our-products img{
+    width: 90vw;
+    margin: auto;
+  }
   .flushdoor-desc2{
     display: flex;
     flex-direction: column;
