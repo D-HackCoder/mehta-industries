@@ -10,7 +10,6 @@ body{
 
 .navbar-fixed{
   background-color: lightblue;
-  width: 100%;
   position: fixed;
   top: 0;
   right: 0;
@@ -127,7 +126,7 @@ body{
 }
 
 .our-products img{
-  width: 30vw;
+  width: 25vw;
   height:100vh;
 }
 
