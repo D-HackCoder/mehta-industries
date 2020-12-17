@@ -10,6 +10,7 @@ body{
 
 .navbar-fixed{
   background-color: lightblue;
+  width: 100%;
   position: fixed;
   top: 0;
   right: 0;
